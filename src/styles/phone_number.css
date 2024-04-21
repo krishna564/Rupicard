@@ -1,0 +1,47 @@
+.input {
+    display: flex;
+    justify-content: space-between;
+    padding: 0.25rem 0.25rem 0.25rem 0.5rem;
+    background-color: rgba(0, 0, 0, 1);
+    border-radius: 0.75rem;
+    max-width: 18rem;
+}
+
+.input > input {
+    background-color: rgba(0, 0, 0, 1);
+    border-width: 0;
+    width: 11rem;
+    font-size: 0.875rem;
+}
+
+.input > .span {
+    width: 1.5rem;
+    height: 100%;
+    color: rgba(255, 255, 255, 1);
+}
+
+.input > button {
+    line-height: 1.2rem;
+    font-size: 0.875rem;
+    text-align: center;
+    padding-top: 0.5rem;
+    padding-bottom: 0.5rem;
+    padding-left: 1rem;
+    padding-right: 1rem;
+    background-color: rgba(253, 239, 120, 1);
+    border-radius: 0.75rem;
+    margin-left: 0.5rem;
+    z-index: 10;
+    color: inherit;
+    cursor: pointer;
+    border: none;
+}
+
+.concent-wrapper {
+    line-height: 0.75rem;
+    font-size: 10px;
+    padding: 1rem 0.5rem 1rem 0.5rem;
+    display: flex;
+    align-items: center;
+    max-width: 18rem;
+}
