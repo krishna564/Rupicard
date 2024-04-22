@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/Rupicard/static/css/main.f8b6909d.css",
-    "main.js": "/Rupicard/static/js/main.7a050bfb.js",
+    "main.css": "/Rupicard/static/css/main.630e65c8.css",
+    "main.js": "/Rupicard/static/js/main.e4e4d124.js",
     "static/js/453.1090702d.chunk.js": "/Rupicard/static/js/453.1090702d.chunk.js",
     "static/media/hero_image.png": "/Rupicard/static/media/hero_image.003d0673f38ec15432b2.png",
     "static/media/logo.svg": "/Rupicard/static/media/logo.03ac2e24db99bbfaeb9b3bfcfc9dc24c.svg",
     "index.html": "/Rupicard/index.html",
     "static/media/star.svg": "/Rupicard/static/media/star.90f8692385ed5aa9ec85bb99fda0b531.svg",
-    "main.f8b6909d.css.map": "/Rupicard/static/css/main.f8b6909d.css.map",
-    "main.7a050bfb.js.map": "/Rupicard/static/js/main.7a050bfb.js.map",
+    "main.630e65c8.css.map": "/Rupicard/static/css/main.630e65c8.css.map",
+    "main.e4e4d124.js.map": "/Rupicard/static/js/main.e4e4d124.js.map",
     "453.1090702d.chunk.js.map": "/Rupicard/static/js/453.1090702d.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.f8b6909d.css",
-    "static/js/main.7a050bfb.js"
+    "static/css/main.630e65c8.css",
+    "static/js/main.e4e4d124.js"
   ]
 }
